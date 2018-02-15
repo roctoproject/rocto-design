@@ -1,7 +1,7 @@
 ## Icon sets, colours, and other materials</h4>
 
 <h5 align="center">palette</h5>
-![palette](palette.svg)
+<img src="./palette.svg" width="100%"></img>
 
 <br/>
 
